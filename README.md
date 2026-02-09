@@ -91,7 +91,7 @@ A curated list of productivity tools, frameworks, and resources for solo softwar
 - [Beehiiv](https://www.beehiiv.com/) - Newsletter platform with monetization features
 - [Product Hunt](https://www.producthunt.com/) - Platform for launching and discovering new products
 - [Indie Hackers](https://www.indiehackers.com/) - Community for indie makers and founders
-- [X (Twitter)](https://x.com/) - Social platform for building in public and marketing
+- [X (formerly Twitter)](https://x.com/) - Social platform for building in public and marketing
 
 ## Project Management
 
