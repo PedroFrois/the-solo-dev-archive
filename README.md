@@ -21,7 +21,7 @@ A curated list of productivity tools, frameworks, and resources for solo softwar
 
 ## AI & Code Assistants
 
-- [Claude Code Subscription](https://www.anthropic.com/claude) - Advanced AI assistant for coding, debugging, and technical problem-solving
+- [Claude](https://www.anthropic.com/claude) - Advanced AI assistant for coding, debugging, and technical problem-solving
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer that helps you write code faster
 - [Cursor](https://cursor.sh/) - AI-first code editor built on VS Code
 - [v0 by Vercel](https://v0.dev/) - AI-powered UI generation from text prompts
@@ -91,7 +91,7 @@ A curated list of productivity tools, frameworks, and resources for solo softwar
 - [Beehiiv](https://www.beehiiv.com/) - Newsletter platform with monetization features
 - [Product Hunt](https://www.producthunt.com/) - Platform for launching and discovering new products
 - [Indie Hackers](https://www.indiehackers.com/) - Community for indie makers and founders
-- [Twitter/X](https://twitter.com/) - Social platform for building in public and marketing
+- [X (Twitter)](https://x.com/) - Social platform for building in public and marketing
 
 ## Project Management
 
