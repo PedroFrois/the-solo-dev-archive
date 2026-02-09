@@ -15,6 +15,7 @@ A curated list of productivity tools, frameworks, and resources for solo softwar
 - [Communication & Support](#communication--support)
 - [Authentication & Security](#authentication--security)
 - [Email & Notifications](#email--notifications)
+- [Flutter & Mobile Development](#flutter--mobile-development)
 - [Learning Resources](#learning-resources)
 
 ---
@@ -127,6 +128,19 @@ A curated list of productivity tools, frameworks, and resources for solo softwar
 - [Postmark](https://postmarkapp.com/) - Fast and reliable email delivery
 - [React Email](https://react.email/) - Build and send emails using React components
 - [OneSignal](https://onesignal.com/) - Push notifications and messaging
+
+## Flutter & Mobile Development
+
+- [Flutter](https://flutter.dev/) - Google's UI toolkit for building natively compiled mobile applications
+- [FlutterFlow](https://flutterflow.io/) - Visual app builder for creating Flutter mobile and web apps
+- [pub.dev](https://pub.dev/) - Official package repository for Dart and Flutter
+- [Codemagic](https://codemagic.io/) - CI/CD platform built specifically for Flutter and mobile apps
+- [Fastlane](https://fastlane.tools/) - Automate building, testing, and releasing iOS and Android apps
+- [Shorebird](https://shorebird.dev/) - Code push and over-the-air updates for Flutter apps
+- [RevenueCat](https://www.revenuecat.com/) - In-app purchases and subscription management for mobile apps
+- [Google AdMob](https://admob.google.com/) - In-app advertising platform for monetizing mobile apps
+- [App Radar](https://appradar.com/) - App Store Optimization (ASO) tool for improving app visibility
+- [AppFollow](https://appfollow.io/) - App store optimization, review management, and competitor analysis
 
 ## Learning Resources
 
